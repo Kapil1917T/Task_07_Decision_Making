@@ -1,5 +1,3 @@
-# Task_07_Decision_Making
-
 # 🧠 Task 07 – Ethical Decision Making with LLMs  
 *Post-Season Analysis: Syracuse Women’s Lacrosse (2025)*
 
