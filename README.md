@@ -4,7 +4,7 @@
 This repository contains the final submission for **Research Task 07**, completed as part of the M.S. in Applied Data Science program at Syracuse University.
 
 The objective of this task was to simulate a real-world stakeholder decision report using:
-- LLM-generated content (via GPT-4)
+- LLM-generated content (via GPT-5)
 - Real player and team performance data
 - Ethical evaluation of AI outputs
 - Clear, reproducible, and risk-tiered recommendations
