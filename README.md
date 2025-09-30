@@ -18,7 +18,7 @@ To assess how reliably large language models (LLMs) can summarize and recommend 
 ---
 
 ## 🗂️ Repository Structure
-
+'''
 Task_07_Decision_Making/
 ├── Datasets/
 │   ├── Game_Log_2025.csv
@@ -37,6 +37,7 @@ Task_07_Decision_Making/
 │   ├── Task_07_Decision_Report.md
 │   ├── claim_validation_log.md
 └── README.md
+'''
 
 ---
 
