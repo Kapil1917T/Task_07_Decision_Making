@@ -1,0 +1,19 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+.env/
+.venv/
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# OS metadata
+.DS_Store
+
+# Project-specific: EXCLUDE raw datasets
+Datasets/
